@@ -1,4 +1,4 @@
-# Dog-Vision-Project
+# Dog-Breed-Classification-Project
 
 This project is about building a dog breed classifier, inspired by this [kaggle project](https://www.kaggle.com/c/dog-breed-identification). All training and test data are from there. 
 
